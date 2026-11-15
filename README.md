@@ -1,0 +1,2 @@
+# wcovst
+Daily digest notes
